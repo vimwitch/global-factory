@@ -9,6 +9,7 @@
     "test": "hardhat test"
   },
   "author": "",
+  "homepage": "https://github.com/vimwitch/global-factory",
   "files": [
     "index.js",
     "index.d.ts",
