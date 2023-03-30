@@ -11,6 +11,7 @@
   "author": "",
   "files": [
     "index.js",
+    "index.d.ts",
     "README.md"
   ],
   "license": "MIT",
