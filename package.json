@@ -14,6 +14,14 @@
     "index.d.ts",
     "README.md"
   ],
+  "keywords": [
+    "ethereum",
+    "contract",
+    "deterministic",
+    "create2",
+    "factory",
+    "hardhat"
+  ],
   "license": "MIT",
   "dependencies": {
     "@ethersproject/address": "^5.7.0",
