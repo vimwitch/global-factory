@@ -1,0 +1,6 @@
+node_modules/
+*.swp
+*.tmp
+.DS_Store
+cache/
+artifacts/

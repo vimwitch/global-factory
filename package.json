@@ -1,0 +1,25 @@
+{
+  "name": "global-factory",
+  "version": "0.0.0",
+  "description": "Contract factory for deterministic addresses on any chain",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "author": "",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@ethersproject/address": "^5.7.0",
+    "@ethersproject/keccak256": "^5.7.0"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "hardhat": "^2.13.0"
+  }
+}
