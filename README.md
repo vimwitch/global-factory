@@ -1,4 +1,4 @@
-# global-factory
+# global-factory [![CircleCI](https://dl.circleci.com/status-badge/img/gh/vimwitch/global-factory/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/vimwitch/global-factory/tree/main)
 
 Transform an Ethers contract factory into a deterministic factory.
 
