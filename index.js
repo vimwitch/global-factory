@@ -21,7 +21,7 @@ module.exports = async (factory, _signer) => {
       // send that much to the deployer address
       await signer.sendTransaction({
         to: globalDeployerDeployer,
-        value: (gasPrice * gasLimit).toString(),
+        value: '0x' + (gasPrice * gasLimit).toString(16),
       })
       .then(t => t.wait())
     }
